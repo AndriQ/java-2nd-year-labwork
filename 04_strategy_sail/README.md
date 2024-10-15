@@ -1,1 +1,1 @@
-See this weeks Moodle submission
+Strategy design pattern.
